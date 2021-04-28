@@ -14,7 +14,7 @@ Go to the Dropbox developer site and create a new App. Get client ID and Secret.
 
 Clone this Repo:
 
-``git clone git@github.com:suresh-ceymplon/oauth-demo.git``
+``git clone git@github.com: ms21917202/oauth-demo.git``
 
 ``docker run --rm -v $(pwd):/app composer install``
 
